@@ -1,0 +1,31 @@
+#mapa {
+
+margin-top:-400px;
+margin-left:-20px;
+width: 100%;
+height: 100%;
+
+}
+
+.imagen {
+
+float: left;
+width:200px ;
+margin-left:10px ;
+}
+
+.imagen2 {
+
+float: left;
+width: 200px ;
+padding: 4px;
+
+
+}
+
+#tituloconectados {
+
+text-align: center;
+
+
+}
